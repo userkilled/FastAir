@@ -38,7 +38,7 @@
     <string name="p2p_inner_error">Сервис временно недоступен, перезапуск&#8230;</string>
     <string name="need_location">Приложение требует разрешения на определение местоположения для обнаружения доступных устройств вокруг него. Это используется только для сканирования устройств.</string>
     <string name="rejected_location">Вы отказали в разрешении на определение местоположения, что может помешать обнаружению устройств.</string>
-    <string name="knowIt">Знаю это</string>
+    <string name="knowIt">Знаю</string>
     <string name="wram_tips">Теплые советы</string>
     <string name="no_application_find">Не найдено подходящего приложения для открытия файла</string>
     <string name="no_permission_to_scan">Недостаточно прав для сканирования информации о файле устройства, пожалуйста, используйте его после открытия разрешения, это не будет записывать вашу личную информацию!</string>
@@ -63,8 +63,8 @@
     <string name="retry">Повторная попытка</string>
     <string name="cancel">Отмена</string>
     <string name="loading">Загрузка&#8230;</string>
-    <string name="toggle_open">Открыть</string>
-    <string name="toggle_close">Закрыть</string>
+    <string name="toggle_open">Открыть боковое меню</string>
+    <string name="toggle_close">Закрыть боковое меню</string>
     <string name="aes">По возрастанию</string>
     <string name="des">По убыванию</string>
     <string name="swap">Обмен</string>
